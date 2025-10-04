@@ -21,7 +21,7 @@ import pandas
 class Bdd:
     def __init__(self) -> None:
         #nom de la bdd
-        self.file = 'sources/web/bdd.csv'
+        self.file = 'sources/bdd/bdd.csv'
 
 
     def score_name(self, name):
