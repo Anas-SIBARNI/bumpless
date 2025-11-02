@@ -23,6 +23,5 @@ Pour démarrer le jeu, il suffit d'exécuter les commandes suivantes :
 
 ```bash
 pip3 install -r requirements.txt
-cd sources
-python3 main.py
+python3 sources/main.py
 ```
